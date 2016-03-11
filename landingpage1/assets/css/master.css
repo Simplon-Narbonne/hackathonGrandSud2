@@ -1,0 +1,110 @@
+body {
+  font-family: "Ubuntu",Helvetica,Arial,Lucida,sans-serif;
+}
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #ED1450;
+}
+strong {
+  color: #ED1450;
+}
+.contenu {
+  max-width: 910px;
+  margin: auto;
+  margin-top: 110px;
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+/*=BANDEAU DU HAUT=*/
+.bandehaut {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #fff;
+}
+.bandeauhaut {
+  width: 1044px;
+  margin: auto;
+  height: 100px;
+}
+.bandeauhaut img {
+  height: 80px;
+  display: inline;
+  padding: 5px;
+  margin: auto;
+  vertical-align: middle;
+}
+.bandeauhaut button {
+  display: inline;
+  padding: 5px;
+  color: #ED1450;;
+}
+.bandeauhaut ul {
+  display: inline;
+}
+.bandeauhaut li {
+  display: inline;
+  padding: 5px;
+}
+
+/*=BLOC D'ENTETE=*/
+.logoentete {
+  padding: 20px;
+  background-color: #fff;
+}
+
+/*=BLOC D'EXPLICATIONS=*/
+.economiedupartage {
+  background-color: #E5E5E5;
+  margin-top: 10px;
+  padding: 20px;
+}
+
+/*=BLOC DE PRESENTATION DU HACKATHON=*/
+.presentation {
+  margin-top: 10px;
+  padding: 20px;
+  background-color: #fff;
+}
+
+/*=BLOC DU JURY=*/
+.jury {
+  margin-top: 10px;
+  padding: 20px;
+  background-color: #E5E5E5;
+}
+.jury img {
+  max-height: 170px;
+}
+.jury figure {
+  display: inline-block;
+  width: 200px;
+  vertical-align: top;
+}
+
+/*=BLOC PRIX=*/
+.prix {
+  margin-top: 10px;
+  padding: 20px;
+  background-color: #fff;
+}
+.prix h2 {
+  color: #ED1450;
+}
+.prix img {
+  width: 40px;
+  vertical-align: top;
+}
+.prix .col {
+  width: 20%;
+  padding: 10px;
+  margin: 5px;
+  border: 0.5px solid #fff;
+  display: inline-block;
+  vertical-align: top;
+  text-align: justify;
+}
