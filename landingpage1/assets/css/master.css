@@ -108,3 +108,18 @@ h2 {
   vertical-align: top;
   text-align: justify;
 }
+
+/*=BANDEAU FONDATION SNCF=*/
+.fondationsncf {
+  background-color: #ED1450;
+  color: #fff;
+  height: 41px;
+}
+.fondationsncf p {
+  margin-right: 10px;
+  display: inline-block;
+}
+.fondationsncf img {
+  width: 280px;
+  vertical-align: middle;
+}
