@@ -1,9 +1,8 @@
 <div class="jury" id="jury">
 
-  <?php include 'fondationsncf.php'; ?>
-
   <div class="contenu">
-    <h2>Un Jury de Qualité</h2>
+
+    <h3>Des marraines et parrains prestigieux</h3>
     <figure>
       <img src="../documents-de-reference/axelle-lemaire.png" alt="Axelle Lemaire" />
       <figcaption>Axelle Lemaire <br> <em>(Secrétaire d’État au numérique)</em></figcaption>
@@ -33,6 +32,7 @@
       <img src="../documents-de-reference/frederic-bardeau.png" alt="Frédéric Bardeau" />
       <figcaption>Frédéric Bardeau <br> <em>(CEO Simplon.co)</em></figcaption>
     </figure>
+
   </div>
 
 </div>
