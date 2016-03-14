@@ -8,9 +8,9 @@ include 'assets/includes/logo-entete.php';
 
 include 'assets/includes/economiedupartage.php';
 
-include 'assets/includes/presentation.php';
-
 include 'assets/includes/thematiques.php';
+
+include 'assets/includes/presentation.php';
 
 include 'assets/includes/prix.php';
 

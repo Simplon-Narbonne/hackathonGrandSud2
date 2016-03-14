@@ -1,48 +1,7 @@
-<div class="presentation" id="presentation">
-
+  
   <?php include 'fondationsncf.php'; ?>
-<link rel="stylesheet" type="text/css" href="../css/master.css" media="all"/>
-  <div class="contenu">
-    <div class="detail-presentation">
-              <h2>Thématiques</h2>
-    <p>
-      <strong>Énergie :</strong> réseaux décentralisés d’énergie, logistique collaborative
-    </p>
-    <p>
-      <strong>Mobilité partagée :</strong> covoiturage, autopartage
-    </p>
-    <p>
-      <strong>Alimentation :</strong> Amap, lutte contre le gaspillage alimentaire, circuits courts
-    </p>
-    <p>
-      <strong>Partage entre particuliers :</strong> plateformes de dons, de prêts ou d’entraide entre voisins
-    </p>
-    <p>
-      <strong>Économie circulaire :</strong> recyclage, lutte contre l’obsolescence programmée, accorderie
-    </p>
-    <p>
-      <strong>Financement :</strong> monnaies alternatives, crowdfunding, blockchain
-    </p>
-    <p>
-      <strong>Tourisme responsable :</strong> hébergements chez les particuliers, promotion du territoire par les habitants
-    </p>
-  </div>
-</div>
-<div class="logo-green">
-  <img src="../documents-de-reference/green-conso.png" alt="Fondation SNCF" />
-<img src="../documents-de-reference/green-mobilite.png" alt="Fondation SNCF" />
-        </div>
-        <div class="fondationsncf">
-          <div class="fondationsncf-p">
-            <p>
-              un évènement financé par
-            </p>
-          </div>
 
-          <div class="fondationsncf-img">
-            <img src="../documents-de-reference/Logo-Fondation-SNCF.jpg" alt="Fondation SNCF" />
-          </div>        </div>
-        <div class="detail-presentation">
+  <div class="detail-presentation">
                    <div class="titre-presentation">
                      <h2>Challenge</h2>
                      <h3 class="team">TEAM</h3>
