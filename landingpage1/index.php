@@ -14,6 +14,8 @@ include 'assets/includes/presentation.php';
 
 include 'assets/includes/prix.php';
 
+include 'assets/includes/informations.php';
+
 include 'assets/includes/partenaires.php';
 
 include 'assets/includes/footer.php';
