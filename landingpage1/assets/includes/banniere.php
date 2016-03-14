@@ -1,4 +1,5 @@
 <div class="banniere">
+
   <div class="bande">
 
     <img src="../documents-de-reference/codincamp.png" alt="codincamp" height="" />
@@ -17,4 +18,5 @@
     </ul>
 
   </div>
+  
 </div>
