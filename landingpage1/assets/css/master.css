@@ -29,8 +29,6 @@ h2 {
   height: 15%;
   background-color: #fff;
 }
-.bande {
-}
 .bande img {
   width: 8%;
   display: inline;
@@ -77,6 +75,36 @@ h2 {
   margin-top: 10px;
   padding: 20px;
   background-color: #fff;
+}
+.presentation img {
+  height: 120px;
+}
+.presentation h3 {
+  font-size: 2em;
+}
+h3.team {
+  color: #3096C9;
+}
+h3.work {
+  color: #B8141F;
+}
+h3.award {
+  color: #FFBA52;
+}
+.detail-presentation {
+  display: inline-flex;
+  margin: 5%;
+  padding: 1%;
+}
+.titre-presentation {
+  display: inline-block;
+  height: 20%;
+  margin: 10px;
+}
+.texte-presentation {
+  display: inline-block;
+  height: 60%;
+  margin: 40px;
 }
 
 /*=BLOC DU JURY=*/
@@ -127,8 +155,6 @@ h2 {
 }
 .fondationsncf p {
   margin: 15px 30px 0 30px;
-}
-.fondationsncf-img {
 }
 .fondationsncf img {
   height: 45px;
