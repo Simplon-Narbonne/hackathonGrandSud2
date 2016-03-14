@@ -1,5 +1,3 @@
-  
-  <?php include 'fondationsncf.php'; ?>
 
   <div class="detail-presentation">
                    <div class="titre-presentation">

@@ -2,6 +2,13 @@ body {
   font-family: "Ubuntu",Helvetica,Arial,Lucida,sans-serif;
   margin: 0;
 }
+p{
+  font-size: 1.4em;
+}
+
+li{
+  font-size: 1.2em;
+}
 a {
   text-decoration: none;
   font-weight: bold;
@@ -144,6 +151,9 @@ h2 {
   vertical-align: top;
   text-align: justify;
 }
+.prix p {
+  font-size: 1em;
+}
 
 /*=BANDEAU FONDATION SNCF=*/
 .fondationsncf {
@@ -155,6 +165,7 @@ h2 {
 }
 .fondationsncf p {
   margin: 15px 30px 0 30px;
+  font-size: 1em;
 }
 .fondationsncf img {
   height: 45px;
