@@ -14,7 +14,6 @@ include 'assets/includes/jury.php';
 
 include 'assets/includes/prix.php';
 
-include 'assets/includes/fondationsncf.php';
-
+include 'assets/includes/footer.php';
 
 ?>
