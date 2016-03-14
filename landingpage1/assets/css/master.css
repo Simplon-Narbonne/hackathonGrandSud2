@@ -9,25 +9,31 @@ p{
 li{
   font-size: 1.2em;
 }
+
 a {
   text-decoration: none;
   font-weight: bold;
   color: #ED1450;
 }
+
 strong {
   color: #ED1450;
 }
+
 .contenu {
   max-width: 910px;
   width: auto;
   margin: auto;
   margin-top: 6%;
 }
+
 h2 {
   font-size: 2em;
   color: #ED1450;
 }
+
 /*=BANDEAU DU HAUT=*/
+
 .banniere {
   position: fixed;
   top: 0;
@@ -36,6 +42,7 @@ h2 {
   height: 15%;
   background-color: #fff;
 }
+
 .bande img {
   width: 8%;
   display: inline;
@@ -43,7 +50,8 @@ h2 {
   margin: auto;
   vertical-align: middle;
 }
-.bande button {
+
+.bande>button {
   display: inline;
   padding: 5px;
   color: #fff;
@@ -51,19 +59,23 @@ h2 {
   font-weight: bold;
   border-radius: 10px;
 }
+
 .bande ul {
   display: inline;
 }
+
 .bande li {
   display: inline;
   padding: 5px;
 }
 
 /*=BLOC D'ENTETE=*/
+
 .logoentete {
   padding: 20px;
   background-color: #fff;
 }
+
 .logoentete p {
   text-align: right;
   font-weight: bold;
@@ -71,29 +83,34 @@ h2 {
   position: relative;
   top: -200px;
 }
+
 .important-entete {
   color: #ED1450;
 }
 
-
 /*=BLOC D'EXPLICATIONS=*/
+
 .economiedupartage {
   background-color: #E5E5E5;
   margin-top: 10px;
   padding: 20px;
 }
+
 .ecopartage img {
   float: right;
   margin-right: -15%;
   width: 25%;
 }
 
+/*=BLOC THEMATIQUES=*/
+
 /*=BLOC DE PRESENTATION DU HACKATHON=*/
-.logo-green{
+
+.logo-green {
     text-align: center;
 }
 
-.logo-green img{
+.logo-green img {
     display: inline-block;
     width: 200px;
     vertical-align: top;
@@ -104,52 +121,59 @@ h2 {
   padding: 20px;
   background-color: #fff;
 }
+
 .presentation img {
   height: 120px;
 }
+
 .presentation h3 {
   font-size: 2em;
 }
+
 h3.team {
   color: #3096C9;
 }
+
 h3.work {
   color: #B8141F;
 }
 h3.award {
   color: #FFBA52;
 }
+
 .detail-presentation {
   display: inline-flex;
   margin: 5%;
   padding: 1%;
 }
+
 .titre-presentation {
   display: inline-block;
   height: 20%;
   margin: 10px;
 }
+
 .texte-presentation {
   display: inline-block;
   height: 60%;
   margin: 40px;
-
-
-/*=BLOC INFORMATIONS GENERALES=*/
-#button{
-background-color: #E94785;
-float: right;
-margin-right: 50px;
-padding: 10px;
-border-radius: 10px;
 }
 
-.bloc-info li{
+/*=BLOC INFORMATIONS GENERALES=*/
+
+#button {
+  background-color: #E94785;
+  float: right;
+  margin-right: 50px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.bloc-info li {
   list-style: none;
 }
 
-.carte-g{
-
+.carte-g {
   display: block;
 }
 
@@ -164,15 +188,19 @@ border-radius: 10px;
   padding: 20px;
   /*background-color: #E5E5E5;*/
 }
+
 .jury img {
   max-height: 100px;
 }
+
 .entreprises-img, .acteurs-img {
   text-align: center;
 }
+
 .entreprises img {
   margin: 0;
 }
+
 .jury figure {
   margin: 1%;
   display: inline-block;
@@ -181,18 +209,22 @@ border-radius: 10px;
 }
 
 /*=BLOC PRIX=*/
+
 .prix {
   margin-top: 10px;
   padding: 20px;
   background-color: #fff;
 }
+
 .prix h2 {
   color: #ED1450;
 }
+
 .prix>.contenu img {
   width: 40px;
   vertical-align: top;
 }
+
 .prix .col {
   width: 20%;
   padding: 10px;
@@ -202,11 +234,13 @@ border-radius: 10px;
   vertical-align: top;
   text-align: justify;
 }
+
 .prix p {
   font-size: 1em;
 }
 
 /*=BANDEAU FONDATION SNCF=*/
+
 .fondationsncf {
   background-color: #ED1450;
   color: #fff;
@@ -214,12 +248,12 @@ border-radius: 10px;
   display: flex;
   padding-left: 17%;
 }
+
 .fondationsncf p {
   margin: 15px 30px 0 30px;
   font-size: 1em;
 }
+
 .fondationsncf img {
   height: 45px;
 }
-
-/*=BLOC THEMATIQUES=*/
