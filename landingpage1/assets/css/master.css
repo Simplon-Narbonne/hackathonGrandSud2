@@ -90,9 +90,10 @@ h2 {
     display: inline-block;
     width: 200px;
     vertical-align: top;
-
 }
-
+.titre-presentation h3 {
+  width:30px;
+}
 
 /*=BLOC DU JURY=*/
 .jury {
