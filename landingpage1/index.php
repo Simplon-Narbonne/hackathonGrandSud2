@@ -12,9 +12,9 @@ include 'assets/includes/presentation.php';
 
 include 'assets/includes/thematiques.php';
 
-include 'assets/includes/jury.php';
-
 include 'assets/includes/prix.php';
+
+include 'assets/includes/partenaires.php';
 
 include 'assets/includes/footer.php';
 

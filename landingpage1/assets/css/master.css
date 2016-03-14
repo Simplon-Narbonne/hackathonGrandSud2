@@ -95,18 +95,30 @@ h2 {
   width:30px;
 }
 
-/*=BLOC DU JURY=*/
-.jury {
+/*= BLOC PARTENAIRES= =*/
+
+.jury h3, .entreprises h3 , .acteurs h3 {
+  color: #ED1450;
+}
+
+.jury, .entreprises, .acteurs {
   margin-top: 10px;
   padding: 20px;
-  background-color: #E5E5E5;
+  //*background-color: #E5E5E5;*/
 }
 .jury img {
-  max-height: 170px;
+  max-height: 100px;
+}
+.entreprises-img, .acteurs-img {
+  text-align: center;
+}
+.entreprises img {
+  margin: 0;
 }
 .jury figure {
+  margin: 1%;
   display: inline-block;
-  width: 200px;
+  width: 120px;
   vertical-align: top;
 }
 
