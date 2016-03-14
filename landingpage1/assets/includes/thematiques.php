@@ -4,7 +4,7 @@
 <link rel="stylesheet" type="text/css" href="../css/master.css" media="all"/>
   <div class="contenu">
     <div class="detail-presentation">
-              <h2>Thématiques</h2>
+  <h2>Thématiques</h2>
     <p>
       <strong>Énergie :</strong> réseaux décentralisés d’énergie, logistique collaborative
     </p>
@@ -29,8 +29,10 @@
   </div>
 </div>
 <div class="logo-green">
-  <img src="../documents-de-reference/green-conso.png" alt="Fondation SNCF" />
-<img src="../documents-de-reference/green-mobilite.png" alt="Fondation SNCF" />
+  <img src="/landingpage-hackathon-grandsud/documents-de-reference/green-conso.png" alt="Fondation SNCF" />
+<img src="/landingpage-hackathon-grandsud/documents-de-reference/green-mobilite.png" alt="Fondation SNCF" />
+<img src="/landingpage-hackathon-grandsud/documents-de-reference/green-conso.png" alt="Fondation SNCF" />
+<img src="/landingpage-hackathon-grandsud/documents-de-reference/green-mobilite.png" alt="Fondation SNCF" />
         </div>
         <div class="fondationsncf">
           <div class="fondationsncf-p">
@@ -40,13 +42,14 @@
           </div>
 
           <div class="fondationsncf-img">
-            <img src="../documents-de-reference/Logo-Fondation-SNCF.jpg" alt="Fondation SNCF" />
-          </div>        </div>
+            <img src="/landingpage-hackathon-grandsud/documents-de-reference/Logo-Fondation-SNCF.jpg" alt="Fondation SNCF" />
+          </div>
+        </div>
         <div class="detail-presentation">
                    <div class="titre-presentation">
-                     <h2>Challenge</h2>
+                     <h2>Le challenge</h2>
                      <h3 class="team">TEAM</h3>
-                     <img src="../documents-de-reference/team.png" alt="TEAM hackathon" />
+                     <img src="/landingpage-hackathon-grandsud/documents-de-reference/team.png" alt="TEAM hackathon" />
                    </div>
                    <div class="texte-presentation">
                      <p>
@@ -63,7 +66,7 @@
                  <div class="detail-presentation">
                    <div class="titre-presentation">
                      <h3 class="work">WORK</h3>
-                     <img src="../documents-de-reference/work.png" alt="WORK hackathon" />
+                     <img src="/landingpage-hackathon-grandsud/documents-de-reference/work.png" alt="WORK hackathon" />
                    </div>
                    <div class="texte-presentation">
                      <ul>
@@ -77,7 +80,7 @@
                  <div class="detail-presentation">
                    <div class="titre-presentation">
                      <h3 class="award">AWARD</h3>
-                     <img src="../documents-de-reference/award.png" alt="AWARD hackathon" />
+                     <img src="/landingpage-hackathon-grandsud/documents-de-reference/award.png" alt="AWARD hackathon" />
                    </div>
                    <div class="texte-presentation">
                      <ul>

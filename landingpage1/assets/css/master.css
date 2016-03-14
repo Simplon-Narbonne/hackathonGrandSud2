@@ -82,40 +82,17 @@ h2 {
 }
 
 /*=BLOC DE PRESENTATION DU HACKATHON=*/
-.presentation {
-  margin-top: 10px;
-  padding: 20px;
-  background-color: #fff;
+.logo-green{
+    text-align: center;
 }
-.presentation img {
-  height: 120px;
+
+.logo-green img{
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
 }
-.presentation h3 {
-  font-size: 2em;
-}
-h3.team {
-  color: #3096C9;
-}
-h3.work {
-  color: #B8141F;
-}
-h3.award {
-  color: #FFBA52;
-}
-.detail-presentation {
-  display: inline-flex;
-  margin: 5%;
-  padding: 1%;
-}
-.titre-presentation {
-  display: inline-block;
-  height: 20%;
-  margin: 10px;
-}
-.texte-presentation {
-  display: inline-block;
-  height: 60%;
-  margin: 40px;
+.titre-presentation h3 {
+  width:30px;
 }
 
 /*= BLOC PARTENAIRES= =*/
