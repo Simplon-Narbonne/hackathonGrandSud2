@@ -57,6 +57,17 @@ h2 {
   padding: 20px;
   background-color: #fff;
 }
+.logoentete p {
+  text-align: right;
+  font-weight: bold;
+  font-size: 2em;
+  position: relative;
+  top: -200px;
+}
+.important-entete {
+  color: #ED1450;
+}
+
 
 /*=BLOC D'EXPLICATIONS=*/
 .economiedupartage {
