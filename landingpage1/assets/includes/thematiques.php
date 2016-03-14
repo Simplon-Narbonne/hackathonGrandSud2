@@ -29,8 +29,7 @@
   </div>
 </div>
 <div class="logo-green">
-  <img src="/landingpage-hackathon-grandsud/documents-de-reference/green-conso.png" alt="Fondation SNCF" />
-<img src="/landingpage-hackathon-grandsud/documents-de-reference/green-mobilite.png" alt="Fondation SNCF" />
+<img src="/landingpage-hackathon-grandsud/documents-de-reference/green-attitude.png" alt="Fondation SNCF" />
 <img src="/landingpage-hackathon-grandsud/documents-de-reference/green-conso.png" alt="Fondation SNCF" />
 <img src="/landingpage-hackathon-grandsud/documents-de-reference/green-mobilite.png" alt="Fondation SNCF" />
         </div>
