@@ -98,8 +98,24 @@ h2 {
     width: 200px;
     vertical-align: top;
 }
-.titre-presentation h3 {
-  width:30px;
+
+
+/*=BLOC INFORMATIONS GENERALES=*/
+#button{
+background-color: #E94785;
+float: right;
+margin-right: 50px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.bloc-info li{
+  list-style: none;
+}
+
+.carte-g{
+
+  display: block;
 }
 
 /*= BLOC PARTENAIRES= =*/
