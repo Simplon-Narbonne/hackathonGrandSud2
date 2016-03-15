@@ -72,8 +72,9 @@ h2 {
 
 .bande li {
   display: inline;
-  padding: 5px;
+  padding: 3px;
   font-size: 0.8em;
+  background-color: #E5E5E5;
 }
 
 /*=BLOC D'ENTETE=*/
