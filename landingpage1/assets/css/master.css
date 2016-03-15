@@ -41,6 +41,12 @@ h2 {
   width: 100%;
   height: 15%;
   background-color: #fff;
+  z-index: 10
+}
+
+.bande {
+  background-color: #fff;
+  z-index: 10
 }
 
 .bande img {
