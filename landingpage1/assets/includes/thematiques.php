@@ -4,7 +4,6 @@
 
   <div class="contenu">
 
-    <div class="detail-presentation">
     <h2>Thématiques</h2>
       <p>
         <strong>Énergie :</strong> réseaux décentralisés d’énergie, logistique collaborative
@@ -34,10 +33,8 @@
 
   <div class="logo-green">
 
-    <img src="/landingpage-hackathon-grandsud/documents-de-reference/green-attitude.png" alt="Fondation SNCF" />
-    <img src="/landingpage-hackathon-grandsud/documents-de-reference/green-conso.png" alt="Fondation SNCF" />
-    <img src="/landingpage-hackathon-grandsud/documents-de-reference/green-mobilite.png" alt="Fondation SNCF" />
+    <img src="../documents-de-reference/green-attitude.png" alt="green-attitude" />
+    <img src="../documents-de-reference/green-conso.png" alt="green-conso" />
+    <img src="../documents-de-reference/green-mobilite.png" alt="green-mobilité" />
 
   </div>
-
-  <?php include 'fondationsncf.php'; ?>
