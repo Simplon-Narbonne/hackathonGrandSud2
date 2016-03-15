@@ -88,7 +88,12 @@ h2 {
   font-weight: bold;
   font-size: 2em;
   position: relative;
-  top: -200px;
+  top: -40px;
+}
+
+.logoentete img {
+  max-width: 910px;
+  width: auto;
 }
 
 .important-entete {
