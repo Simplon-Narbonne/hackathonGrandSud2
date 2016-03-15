@@ -1,4 +1,4 @@
-<div class="partenaires">
+<div class="partenaires" id="partenaires">
 
   <?php include 'fondationsncf.php'; ?>
 

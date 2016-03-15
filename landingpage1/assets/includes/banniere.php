@@ -12,11 +12,12 @@
 
     <ul>
       <li><a href="#economiedupartage">L'économie du partage</a></li>
-      <li><a href="#presentation">Présentation</a></li>
-      <li><a href="#jury">VIP</a></li>
-      <li><a href="#prix">PRIX</a></li>
+      <li><a href="#thematiques">Thématiques</a></li>
+      <li><a href="#presentation">Le challenge</a></li>
+      <li><a href="#infogene">Informations générales</a></li>
+      <li><a href="#partenaires">Partenaires</a></li>
     </ul>
 
   </div>
-  
+
 </div>

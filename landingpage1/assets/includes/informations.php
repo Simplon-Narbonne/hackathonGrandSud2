@@ -1,4 +1,4 @@
-<div class="infogene">
+<div class="infogene" id="infogene">
 
   <?php include 'fondationsncf.php'; ?>
 
